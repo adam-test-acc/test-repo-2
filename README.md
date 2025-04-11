@@ -1,2 +1,3 @@
 # test-repo-2
-Testing for class
+
+This is the first file of the first Git repo in class.
