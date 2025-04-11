@@ -2,4 +2,4 @@
 
 This is the first file of the first Git.
 
-Change from other version!
+Change from first version.
