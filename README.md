@@ -2,10 +2,7 @@
 
 This is the first file of the first Git.
 
-Change from other version!
-
-Change from third version
-
-# Merge conflict?
+Change from first version.
 
 
+Changes in test branch.
